@@ -3,4 +3,4 @@
 
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=lua,js,html,css,python,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua,js,html,css,python,csharp)](https://skillicons.dev)
